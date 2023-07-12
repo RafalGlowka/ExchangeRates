@@ -1,0 +1,12 @@
+{
+  "data" : [
+    {
+      "filename" : "exchange.json",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Exchange</string>
+    <string name="list_is_empty">List is empty</string>
+    <string name="insert_value">Insert value</string>
+    <string name="content_description_back_button">Back button</string>
+    <string name="error_general">Something went wrong.</string>
+    <string name="error_initialization">Initialization error</string>
+    <string name="retry">Retry</string>
+</resources>
